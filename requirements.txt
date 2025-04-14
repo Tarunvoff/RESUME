@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+fpdf
+pdfplumber
+python-docx
+spacy
+langchain
+langchain-google-genai
